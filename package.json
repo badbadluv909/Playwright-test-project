@@ -1,0 +1,20 @@
+{
+  "name": "pw-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badbadluv909/Playwright-test-project.git"
+  },
+  "author": "Tsarkov Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badbadluv909/Playwright-test-project/issues"
+  },
+  "homepage": "https://github.com/badbadluv909/Playwright-test-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
